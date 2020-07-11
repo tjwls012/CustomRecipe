@@ -1,10 +1,14 @@
 # CustomRecipe
-You can manage crafting &amp; smelting recipes.
+When you enter the /craftingrecipe or /smeltingrecipe command, the usage method is displayed as a chat message.
 
-If you use command /craftingrecipe or /smeltingrecipe, gui is opened.
+After do this, if you add a new recipe, the GUI will be appeared.
 
-There will be space which you can put items in it.
+In the GUI, there are two spaces, paper and emerald.
 
-After you put items, do follow as explantation, which is written on  items' name.
+Please put each item of material and output from the left in the space.
 
-Then reboot your server.
+The paper also has a brief explantation, and the Emerald is the confirm button.
+
+If you interact with something like moving the emerald button to another location, the new recipe is saved.
+
+If you added a recipe, please reboot.
