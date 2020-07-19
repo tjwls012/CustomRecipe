@@ -2,14 +2,14 @@
 
 /**
  * @name CustomRecipe
- * @main securti\customrecipe\CustomRecipe
- * @author ["Securti"]
+ * @main tjwls012\customrecipe\CustomRecipe
+ * @author ["tjwls012"]
  * @version 0.1
  * @api 3.14.0
  * @description License : LGPL 3.0
  */
  
-namespace securti\customrecipe;
+namespace tjwls012\customrecipe;
  
 use pocketmine\event\Listener;
 use pocketmine\plugin\PluginBase;
